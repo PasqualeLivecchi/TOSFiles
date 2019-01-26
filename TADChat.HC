@@ -1,3 +1,4 @@
+//Translation of https:?/github.com/FullNitrous/TADChat
 U0 TADChat()
 {
 	I32 read,i;
