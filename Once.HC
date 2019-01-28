@@ -10,10 +10,10 @@ TipOfDay;
 
 U0 Games()
 {
-	Cd("C:/Demo/Games");
+  Cd("C:/Demo/Games");
 }
 
 U0 Home()
 {
-	Cd("~");
+  Cd("~");
 }
